@@ -10,10 +10,10 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/user1">
-        <img src="https://avatars.githubusercontent.com/u/33937365?v=4" width="100px;" alt=""/>
+      <a href="https://github.com/jojaegu2/">
+        <img src="https://avatars.githubusercontent.com/u/65579171?v=4" width="100px;" alt=""/>
         <br />
-        <sub>user1</sub>
+        <sub>조재은</sub>
       </a>
     </td>
     <td align="center">
