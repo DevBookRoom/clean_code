@@ -1,4 +1,4 @@
-# 📚 CleanCode_Book_Study 📚
+# 📚 CleanCode 📚
 
 ![클린 코드](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788966260959.jpg)
 
@@ -6,42 +6,42 @@
 
 ---
 
-## 👨‍🏫 Reader 👩‍🏫
+## 👨‍🏫 스터디원 👩‍🏫
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/jojaegu2/">
+      <a href="https://github.com/saysuhyun">
+        <img src="https://avatars.githubusercontent.com/u/172836819?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>🌟최수현</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CEOJINSUNG">
+        <img src="https://avatars.githubusercontent.com/u/55318896?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>김진성</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kang-bh">
+        <img src="https://avatars.githubusercontent.com/u/82449613?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>강병호</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jojaegu2">
         <img src="https://avatars.githubusercontent.com/u/65579171?v=4" width="100px;" alt=""/>
         <br />
         <sub>조재은</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/user2">
-        <img src="https://avatars.githubusercontent.com/u/53260922?v=4" width="100px;" alt=""/>
+      <a href="https://github.com/movingone">
+        <img src="https://avatars.githubusercontent.com/u/104751794?v=4" width="100px;" alt=""/>
         <br />
-        <sub>🐯user2</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/user3">
-        <img src="https://avatars.githubusercontent.com/u/50071076?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>user3</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/user3">
-        <img src="https://avatars.githubusercontent.com/u/50071076?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>user4</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/user3">
-        <img src="https://avatars.githubusercontent.com/u/50071076?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>user4</sub>
+        <sub>이동원</sub>
       </a>
     </td>
   </tr>
